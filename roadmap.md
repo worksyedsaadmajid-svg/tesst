@@ -1,0 +1,3 @@
+- [x] Package all site pages, styles, imagery, and searchable products as standalone HTML/CSS/JavaScript.
+- [x] Verify navigation, mobile layout, images, search, and product detail interactions.
+- [ ] Deliver a clean ZIP in Files.
